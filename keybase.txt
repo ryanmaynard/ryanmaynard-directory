@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ryanmaynard
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ryanmaynard.directory
+  * I am ryanmaynard (https://keybase.io/ryanmaynard) on keybase.
+  * I have a public key with fingerprint B724 BE86 564A CE47 FAAC  84EE 8DCE D8D4 4DBF 13E5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f5b2c9480dfaea863992270b8aa65ccaa3a7f5b6ae52452a9fadff63353c51460a",
+      "fingerprint": "b724be86564ace47faac84ee8dced8d44dbf13e5",
+      "host": "keybase.io",
+      "key_id": "8dced8d44dbf13e5",
+      "kid": "01014f21ec40b50eebf0e6624ba597bfaaa3815f81fccd97909a7c67e5d65aaa39fe0a",
+      "uid": "a9269b2cf5407922efb234c73a8ed019",
+      "username": "ryanmaynard"
+    },
+    "service": {
+      "hostname": "ryanmaynard.directory",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1527053780,
+  "expire_in": 157680000,
+  "prev": "a988e28753088cddf5432881ae1089e6969e0de222e728f61f18d38eb2790e43",
+  "seqno": 147,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNtAnicbZJ9TFVlHMdBUBBiMZIwrS2P07FGdN7Pc+4WiSMVlgqOhllwec45z4Hj
+5Z57OfcFroSLJgxXvvHiQhSNkIkrL+aawISE1CAaId0MqQYZeMmbmQZtDqGey/Kv
+Ov88O8/z/X1+3+/vea7EhIVEhR4YGvVt/fypqdDB3tOukDfD531lhGRTPISpjLCg
+xQUVKcjhNFs0hTARJEWTKifRssgCUlEhgoBnRJGmBVICEPKcLEPIQAFreIg4muVo
+KKpQUVWeYThG5iiWJyGRRKiaXoAMu6HpToyVBJqVEOA5noUyYgUVQhmwCAFFRgpQ
+WFaRVIpBHC4stDmCFdicBB0oWbPhPfxjXrT3P/rHvkmKVWkKySwpcSRCkkoinsdd
+IScKEu4HGUBxKqBUWVZEQSRFKMi8gDiF54KHoooWfbsWcVCkeRFPQeVYUsDpkSrR
+DCsLDARIISkxKHQgQ4dWhNWGB+pW6NGhoRDlSQQ+cGsyCs42GOa/omRFM5DstBke
+zLEbNqdNthVhSaHTaXeYgginxx6sKUGS+V+aWdJ0Bc8UV7iR4dBsOmGisFJ2akE8
+xeEb4hgBkEkEKrVjvlkLKjiBByT+gn2QezEZAIgGAseQAMiKghMyNAAURBQJRMSL
+vIhIBdE4s0ADladUCigMQBKNZ4ZYhgjmK9ZtmM0K2CgswFCHVqBDp8tARHlf71vh
+IaFRIcuWLgm+tpCo5bGP3+CxP5+cT2iPOJEVn3ovI/SJi92frY/o9DteCQh0ILXl
+QTt03dptEdsmfUVg5mhtRb5ZPJd1zJImRPJIG643KvqHCP/T0RFXe4qvb7o9E8gf
+r3zhXtX9xKRN4+d91aO7LP1hmeV3rJn7GkfnD+0k65fVXNuTnjgUHbuNyuzUm9JW
+VPTUebv27t4yXJNnqSyZTU97htkwqI+Rg/rprc0tJURp7MCj/vBU4O9c1/Xypcbo
+zu6ZrNKJvs3731jIMd1mA5dfejX7xqyZH98Yfne7a84y/vGWF6NqnEv82/Jb3o6b
++m7yub9zY57NqxkrT4z7IPLQAW/XtT88wvxPORw7937O0b8eKu8NLJwaXTP5Kdta
+8kv1iiLD+nx8ws7XhMOtZZd/UOtGaosDpPPD3LZfvRK6/sXXruXVGx7eD/OdiYnL
+O3i8I77B2xbgU30jretXmkB3QtO7a2bPZdfPlu3IvTl4M6JOX1vSrH5zQmve/Eko
+9fO3HXPDpxJi14k/HoxJSWbKvvfPxH+1b7XYm6REpkycvWuP1t+Z3pi2lzzZsiPs
+UQ9qiCi903WlLyNj9coLab83Hbf+NqONufef9UdqcbWrvIcrm0KuNhZ0VHi7y5f2
+FW53nzk5tWrt+YG5ieldI4E97bB9bpp7kI0SwK3pkYqqiymmj1pvXFL6GxY4ve/L
+YuuF5tfTq9zakX8AvXzUJw==
+=tfIw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryanmaynard
+
+==================================================================
